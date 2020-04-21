@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title> Pan </title>
+<!--Zone CSS pour la page-->
+</head>
+
+<body>
+<center><h1>Notes</h1></center>
+<!-- Menu de navigation du site -->
+<ul class="navbar">
+  <li><a href="151516">Accueil</a>
+  <li><a href="Pcode C.html">C++ et C</a>
+  <li><a href="Pcode java.html">Java</a>
+  <li><a href="liens.html">Unity</a>
+  <li><a href="liens.html">Vidéos Montage</a>
+  <img src="Users\G2\OneDrive\Images\Captures d’écran/2019-06-17.png" alt="Photo de montagns" />
+</ul>
+</body>
+
+</html>
